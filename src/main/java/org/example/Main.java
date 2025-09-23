@@ -18,6 +18,7 @@ public class Main {
 
         // Connect to MongoDB
         MongoClient mongoClient = new MongoClient("mongo-dbserver");
+        System.out.println("Connected to mongo");
     }
 
 }
