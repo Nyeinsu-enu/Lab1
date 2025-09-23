@@ -3,3 +3,6 @@
 [![LICENSE](https://img.shields.io/github/license/nyeinsu-enu/Lab1.svg?style=flat-square)](https://github.com/nyeinsu-enu/Lab1/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/nyeinsu-enu/Lab1/all.svg?style=flat-square)](https://github.com/nyeinsu-enu/Lab1/releases)
+
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/nyeinsu-enu/Lab1/main.yml/develop?style=flat-square)
