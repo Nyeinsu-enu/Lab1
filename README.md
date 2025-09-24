@@ -1,4 +1,4 @@
-![workflow](https://github.com/Nyeinsu-enu/Lab1/actions/workflows/main.yml/badge.svg?branch=develop)
+![workflow](https://github.com/nyeinsu-enu/Lab1/actions/workflows/main.yml/badge.svg?branch=develop)
 
 [![LICENSE](https://img.shields.io/github/license/nyeinsu-enu/Lab1.svg?style=flat-square)](https://github.com/nyeinsu-enu/Lab1/blob/develop/LICENSE)
 
