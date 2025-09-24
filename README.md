@@ -2,8 +2,8 @@
 
 ## Build Status
 
-![Master Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/main.yml?branch=master&label=Master%20Build&style=flat-square)
-![Develop Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/main.yml?branch=develop&label=Develop%20Build&style=flat-square)
+![Master Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/maven.yml?branch=master&label=Master%20Build&style=flat-square)
+![Develop Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/maven.yml?branch=develop&label=Develop%20Build&style=flat-square)
 
 ## License
 ![License](https://img.shields.io/github/license/Nyeinsu-enu/Lab1?style=flat-square)
