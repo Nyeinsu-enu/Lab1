@@ -1,13 +1,8 @@
-# Lab_1
+![workflow](https://github.com/Nyeinsu-enu/Lab1/actions/workflows/main.yml/badge.svg?branch=develop)
 
-## Build Status
+[![LICENSE](https://img.shields.io/github/license/nyeinsu-enu/Lab1.svg?style=flat-square)](https://github.com/nyeinsu-enu/Lab1/blob/develop/LICENSE)
 
-![Master Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/main.yml?branch=master&label=Master%20Build&style=flat-square)
-![Develop Build](https://img.shields.io/github/actions/workflow/status/Nyeinsu-enu/Lab1/main.yml?branch=develop&label=Develop%20Build&style=flat-square)
+[![Releases](https://img.shields.io/github/release/nyeinsu-enu/Lab1/all.svg?style=flat-square)](https://github.com/nyeinsu-enu/Lab1/releases)
 
-## License
-![License](https://img.shields.io/github/license/Nyeinsu-enu/Lab1?style=flat-square)
-
-## Release
-![Release](https://img.shields.io/github/v/release/Nyeinsu-enu/Lab1?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/nyeinsu-enu/Lab1/main.yml?branch=develop&style=flat-square)
 
